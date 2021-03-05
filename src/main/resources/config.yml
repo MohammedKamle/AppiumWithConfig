@@ -1,0 +1,10 @@
+---
+#platform: ios
+#os-version: 14
+#device: iPhone 11
+#app: bs://094fc4cc8bc8e491aebf2974eb84d59b9a0414e9
+
+platform: android
+os-version: 9.0
+device: Google Pixel 3
+app: bs://5d9bdde826e55d14a52c851bd4aa133741c608dd
